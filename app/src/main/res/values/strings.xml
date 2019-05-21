@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">N26Test</string>
+    <string name="base_url">https://api.blockchain.info/charts/</string>
+
+    <!-- Buttons-->
+    <string name="B180Days">180 D</string>
+    <string name="B1Year">1 Y</string>
+    <string name="B2Years">2 Y</string>
+    <string name="BAllTime">All</string>
+
+    <string name="t180">180days</string>
+    <string name="t1year">360days</string>
+    <string name="t2year">720days</string>
+    <string name="tAll">all</string>
+</resources>

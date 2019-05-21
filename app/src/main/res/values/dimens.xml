@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chartWindowMargin">10dp</dimen>
+    <dimen name="chartCornerRadius">5dp</dimen>
+    <dimen name="chartMargin">5dp</dimen>
+    <dimen name="buttonMargin">5dp</dimen>
+    <dimen name="buttonWidth">80dp</dimen>
+    <dimen name="buttonHeight">50dp</dimen>
+</resources>
